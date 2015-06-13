@@ -1,0 +1,15 @@
+--Chavez Jacqueline_Hernandez Ivania
+----clave:jacky
+----usuario:saira
+----clave:dany
+----usuario:emma
+
+-------URL TSE:
+---------http://localhost/final/tribunal/emmasaira.php
+
+-------URL VOTANTE:
+---------http://localhost/sairayemma/elecciones/formularioVotante.php
+---------N° DE DUI: 12345678-9 ó 12345678-7
+
+-------URL DE LOS RESULTADOS:
+---------http://localhost/sairayemma/elecciones/resultados.php

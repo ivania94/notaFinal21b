@@ -1,0 +1,34 @@
+#image1
+{ 
+  position: absolute;
+  
+}
+
+#image2
+{ 
+  position: absolute;
+  left: 279px;
+}
+
+#image3
+{
+   position: absolute;
+   left: 542px;
+}	
+
+#image4
+{
+  position: absolute;
+  left: 765px;
+  top: 32px;
+}
+
+#image5
+{
+  position: absolute;
+  left: 1020px;
+  top: 32px;
+}
+.PRESIDENTE {
+  background: #E3F4DD;
+}

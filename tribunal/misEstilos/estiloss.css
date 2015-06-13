@@ -1,0 +1,83 @@
+img{
+	height: 70px;
+	width: 70px;
+}
+
+.logo{
+	height: 100;
+	width: 100;
+}
+
+.president{
+	background:#E3F4DD;
+}
+
+.alcalde{
+	background: rgb(228, 246, 253);
+}
+
+.diputado{
+	background: rgba(229, 200, 227, 0.99);
+}
+
+.cabecera{
+	text-align: center;
+	font-family: time new roman;
+	font-size: 24;
+	border-bottom: solid;
+	border-top: dashed;
+}
+
+.portada{
+	font-family: papirus;
+	font-size: 20;
+	text-align: center;
+}
+
+.button{
+	cursor: crosshair;
+	color: black;
+	font-family: algerian;
+	background:purple;
+}
+
+table{
+	border-style: solid;
+	border-spacing: 2;
+}
+
+div{
+	text-align: center;
+}
+
+.tipo{
+	margin-left: 300;
+	margin-right: 10;
+	width: 750px;
+	height: 700px;
+	border-style: ridge;
+	background: #ABCFD8;
+}
+
+ul{
+	font-family: time new roman;
+	font-size: 22;
+	text-align: left;
+   
+}
+.menu{
+	width: 250;
+	height: 600;
+}
+
+
+ul li{
+	list-style-type:circle;
+    font-size:150%;
+}
+
+a{
+	font-size: 20;
+	border: solid;
+	text-align: right;
+}
